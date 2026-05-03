@@ -72,19 +72,6 @@ The ER design aims to:
 
 ---
 
-##  Key Features Supported
-
-✔ Multiple entries per vehicle
-✔ Reusable parking spots
-✔ Reserved parking (VIP, staff, EV, etc.)
-✔ Real-time availability tracking
-✔ Entry & exit time recording
-✔ Automated fee calculation
-✔ Payment tracking per session
-✔ Identification of currently parked vehicles
-
----
-
 ##  Design Highlights
 
 * Clean separation of **sessions, tickets, and payments**
@@ -99,5 +86,3 @@ The ER design aims to:
 This ER diagram provides a structured and scalable foundation for building a **real-world event parking management system**. It ensures efficient tracking, allocation, and billing while supporting diverse user categories and vehicle types.
 
 ---
-
-If you want, I can also convert this into a **GitHub-style README with badges and visuals** or help you explain this in viva/interview style 😉
