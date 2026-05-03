@@ -81,6 +81,10 @@ The ER design aims to:
 
 ---
 
+##   ER Diagram 
+<img width="2000" height="1714" alt="image" src="https://github.com/user-attachments/assets/0b090d6c-b3b6-47b8-b942-34ab3f02f1f8" />
+
+
 ##  Conclusion
 
 This ER diagram provides a structured and scalable foundation for building a **real-world event parking management system**. It ensures efficient tracking, allocation, and billing while supporting diverse user categories and vehicle types.
